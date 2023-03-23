@@ -19,11 +19,6 @@ The metric of success was, of course, money. Specifically, the goal was to obtai
 
 To achieve the goal, we were provided with a base dataset (diamonds.csv), with the historical price of other diamonds and their characteristics. We cleaned the data, performed an EDA and built the linear regression model using scikit-learn.
 
-## 🛠 Data Gathering:
-
-As mentioned before, the data was obtained through webscrapping from the raider.io page, from all main seasons that have already ended, creating a csv file with "role" (tank, healer or dps), "season", "class" and "region".
-In this repositorie, you can also find the raider.io's public API notebook. The problem with the public API is that the number of pages from which data can be extracted is 100, which greatly limited the amount of data and was therefore not considered.
-
 ## 🛠 Data Cleaning/EDA:
 
 Some of the data was a bit messy so some adjustments were needed to clean it up. So the first step was to clean up the data.
