@@ -8,7 +8,7 @@
 ![image](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![image]([https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white](https://seaborn.pydata.org/_images/logo-wide-lightbg.svg))
+![image](https://img.shields.io/badge/Seaborn-lightblue.svg?style=for-the-badge&logo=Seaborn&logoColor=blue)
 ![image](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ##  💻 About the project</br>
